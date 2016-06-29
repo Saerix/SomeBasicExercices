@@ -1,5 +1,5 @@
 //Exercise CheckPassFail (if-else): Write a program called CheckPassFail which prints "PASS"
-// if the int variable "number" is more than or equal to 50; or prints "FAIL" otherwise.
+// if the int variable "number" is more than or equal to 50;or prints "FAIL" otherwise.
 // The program shall always print “DONE” before exiting.
 
 public class Check_pass_fail {
